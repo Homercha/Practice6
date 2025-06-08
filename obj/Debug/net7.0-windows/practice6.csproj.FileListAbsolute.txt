@@ -1,0 +1,16 @@
+D:\visual\practice6\bin\Debug\net7.0-windows\practice6.exe
+D:\visual\practice6\bin\Debug\net7.0-windows\practice6.deps.json
+D:\visual\practice6\bin\Debug\net7.0-windows\practice6.runtimeconfig.json
+D:\visual\practice6\bin\Debug\net7.0-windows\practice6.dll
+D:\visual\practice6\bin\Debug\net7.0-windows\practice6.pdb
+D:\visual\practice6\obj\Debug\net7.0-windows\Lab06App.Form1.resources
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.csproj.GenerateResource.cache
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.AssemblyInfoInputs.cache
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.AssemblyInfo.cs
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.csproj.CoreCompileInputs.cache
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.dll
+D:\visual\practice6\obj\Debug\net7.0-windows\refint\practice6.dll
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.pdb
+D:\visual\practice6\obj\Debug\net7.0-windows\practice6.genruntimeconfig.cache
+D:\visual\practice6\obj\Debug\net7.0-windows\ref\practice6.dll
